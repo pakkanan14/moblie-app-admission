@@ -1,1 +1,0 @@
-# moblie-app-admission
